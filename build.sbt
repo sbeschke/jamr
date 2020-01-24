@@ -1,7 +1,3 @@
-import AssemblyKeys._
-
-assemblySettings
-
 name := "jamr"
 
 version := "0.1-SNAPSHOT"
